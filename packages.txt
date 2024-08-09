@@ -24,6 +24,8 @@ libreoffice-writer
 libreoffice-calc
 libreoffice-impress
 libreoffice-math
+pix
+drawing
 libreoffice-ogltrans
 libreoffice-pdfimport
 example-content
@@ -91,6 +93,8 @@ libnatpmp1
 libneon27-gnutls
 libpagemaker-0.0-0
 librdf0
+drawing
+xviewer
 libreoffice-avmedia-backend-gstreamer
 libreoffice-base-core
 libreoffice-common
